@@ -1,93 +1,93 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/phys/",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/phys/",
+          "path": "/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "balance-manipulation-and-whole-body-control",
-              "path": "/phys/balance-manipulation-and-whole-body-control",
+              "path": "/balance-manipulation-and-whole-body-control",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "capstone-autonomous-humanoid",
-              "path": "/phys/capstone-autonomous-humanoid",
+              "path": "/capstone-autonomous-humanoid",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "conversational-robotics-voice-to-action",
-              "path": "/phys/conversational-robotics-voice-to-action",
+              "path": "/conversational-robotics-voice-to-action",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "embodied-intelligence-and-humanoids",
-              "path": "/phys/embodied-intelligence-and-humanoids",
+              "path": "/embodied-intelligence-and-humanoids",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/phys/",
+              "path": "/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction-to-physical-ai",
-              "path": "/phys/introduction-to-physical-ai",
+              "path": "/introduction-to-physical-ai",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "isaac-ros-and-perception",
-              "path": "/phys/isaac-ros-and-perception",
+              "path": "/isaac-ros-and-perception",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "navigation-and-bipedal-locomotion",
-              "path": "/phys/navigation-and-bipedal-locomotion",
+              "path": "/navigation-and-bipedal-locomotion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "nvidia-isaac-sim-and-digital-twins",
-              "path": "/phys/nvidia-isaac-sim-and-digital-twins",
+              "path": "/nvidia-isaac-sim-and-digital-twins",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "recommended-humanoid-robots",
-              "path": "/phys/recommended-humanoid-robots",
+              "path": "/recommended-humanoid-robots",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ros2-the-robotic-nervous-system",
-              "path": "/phys/ros2-the-robotic-nervous-system",
+              "path": "/ros2-the-robotic-nervous-system",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "sensors-in-physical-ai",
-              "path": "/phys/sensors-in-physical-ai",
+              "path": "/sensors-in-physical-ai",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "simulation-with-gazebo",
-              "path": "/phys/simulation-with-gazebo",
+              "path": "/simulation-with-gazebo",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "student-hardware-guide",
-              "path": "/phys/student-hardware-guide",
+              "path": "/student-hardware-guide",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "urdf-and-robot-description",
-              "path": "/phys/urdf-and-robot-description",
+              "path": "/urdf-and-robot-description",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vision-language-action-models",
-              "path": "/phys/vision-language-action-models",
+              "path": "/vision-language-action-models",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -95,7 +95,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/phys/introduction-to-physical-ai",
+                "path": "/introduction-to-physical-ai",
                 "label": "introduction-to-physical-ai"
               }
             }

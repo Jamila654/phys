@@ -81,6 +81,13 @@ const config = {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      // Metadata for the chat widget
+      metadata: [
+        {
+          name: 'chat-api',
+          content: 'https://phys-chatbot-api.vercel.app/chat'
+        }
+      ],
     }),
 };
 

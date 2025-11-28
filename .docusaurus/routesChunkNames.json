@@ -1,73 +1,116 @@
 {
-  "/phys/-671": {
-    "__comp": "1be78505",
+  "/__docusaurus/debug-fa3": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "f8bf528a"
+      "plugin": "plugin---docusaurus-debug-9-dd-b84"
+    }
+  },
+  "/__docusaurus/debug/config-75d": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-dd-b84"
+    }
+  },
+  "/__docusaurus/debug/content-cd8": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-dd-b84"
     },
-    "versionMetadata": "935f2afb"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/phys/-fa2": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+  "/__docusaurus/debug/globalData-8e3": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-dd-b84"
+    }
   },
-  "/phys/balance-manipulation-and-whole-body-control-9b9": {
-    "__comp": "17896441",
-    "content": "fee21ee4"
+  "/__docusaurus/debug/metadata-f26": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-dd-b84"
+    }
   },
-  "/phys/capstone-autonomous-humanoid-f65": {
-    "__comp": "17896441",
-    "content": "42a93112"
+  "/__docusaurus/debug/registry-32c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-dd-b84"
+    }
   },
-  "/phys/conversational-robotics-voice-to-action-bfa": {
-    "__comp": "17896441",
-    "content": "9273aff0"
+  "/__docusaurus/debug/routes-ce6": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-dd-b84"
+    }
   },
-  "/phys/embodied-intelligence-and-humanoids-aab": {
-    "__comp": "17896441",
-    "content": "d9188b23"
+  "/-023": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---f-8-b-dfb"
+    },
+    "versionMetadata": "versionMetadata---935-fcf"
   },
-  "/phys/introduction-to-physical-ai-c3c": {
-    "__comp": "17896441",
-    "content": "cc0ad427"
+  "/-96c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---0-e-3-279"
   },
-  "/phys/isaac-ros-and-perception-342": {
-    "__comp": "17896441",
-    "content": "837de670"
+  "/balance-manipulation-and-whole-body-control-55e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---balance-manipulation-and-whole-body-controlfee-44d"
   },
-  "/phys/navigation-and-bipedal-locomotion-76b": {
-    "__comp": "17896441",
-    "content": "c621f5d4"
+  "/capstone-autonomous-humanoid-a1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---capstone-autonomous-humanoid-42-a-4dc"
   },
-  "/phys/nvidia-isaac-sim-and-digital-twins-c6d": {
-    "__comp": "17896441",
-    "content": "abcdf408"
+  "/conversational-robotics-voice-to-action-86a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---conversational-robotics-voice-to-action-927-ebd"
   },
-  "/phys/recommended-humanoid-robots-626": {
-    "__comp": "17896441",
-    "content": "b4a005f6"
+  "/embodied-intelligence-and-humanoids-5e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---embodied-intelligence-and-humanoidsd-91-d31"
   },
-  "/phys/ros2-the-robotic-nervous-system-f99": {
-    "__comp": "17896441",
-    "content": "9f7a62ce"
+  "/introduction-to-physical-ai-2e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---introduction-to-physical-aicc-0-9aa"
   },
-  "/phys/sensors-in-physical-ai-cd6": {
-    "__comp": "17896441",
-    "content": "ce901b5b"
+  "/isaac-ros-and-perception-062": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---isaac-ros-and-perception-837-a90"
   },
-  "/phys/simulation-with-gazebo-558": {
-    "__comp": "17896441",
-    "content": "e8d4038f"
+  "/navigation-and-bipedal-locomotion-09f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---navigation-and-bipedal-locomotionc-62-860"
   },
-  "/phys/student-hardware-guide-f47": {
-    "__comp": "17896441",
-    "content": "3a1d1bd2"
+  "/nvidia-isaac-sim-and-digital-twins-2dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nvidia-isaac-sim-and-digital-twinsabc-833"
   },
-  "/phys/urdf-and-robot-description-a52": {
-    "__comp": "17896441",
-    "content": "3f38efec"
+  "/recommended-humanoid-robots-99f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---recommended-humanoid-robotsb-4-a-e8a"
   },
-  "/phys/vision-language-action-models-97b": {
-    "__comp": "17896441",
-    "content": "6c6113f4"
+  "/ros2-the-robotic-nervous-system-0d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ros-2-the-robotic-nervous-system-9-f-7-9f2"
+  },
+  "/sensors-in-physical-ai-3eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sensors-in-physical-aice-9-48d"
+  },
+  "/simulation-with-gazebo-3ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---simulation-with-gazeboe-8-d-d22"
+  },
+  "/student-hardware-guide-22b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---student-hardware-guide-3-a-1-78e"
+  },
+  "/urdf-and-robot-description-5a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---urdf-and-robot-description-3-f-3-f70"
+  },
+  "/vision-language-action-models-1d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vision-language-action-models-6-c-6-70a"
   }
 }

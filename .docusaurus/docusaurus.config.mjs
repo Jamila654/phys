@@ -7,8 +7,8 @@ export default {
   "title": "Physical AI & Humanoid Robotics: Bridging Digital Intelligence and the Physical World",
   "tagline": "An AI-native textbook teaching Physical AI and Humanoid Robotics using ROS 2, Gazebo, NVIDIA Isaac Sim, and Vision-Language-Action models.",
   "favicon": "img/favicon.ico",
-  "url": "https://jamila654.github.io",
-  "baseUrl": "/phys/",
+  "url": "https://phys-git-main-jamila654s-projects.vercel.app",
+  "baseUrl": "/",
   "organizationName": "Jamila654",
   "projectName": "phys",
   "onBrokenLinks": "throw",
@@ -246,6 +246,12 @@ export default {
         }
       ]
     },
+    "metadata": [
+      {
+        "name": "chat-api",
+        "content": "https://phys-chatbot-api.vercel.app/chat"
+      }
+    ],
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -258,7 +264,6 @@ export default {
         "autoCollapseCategories": false
       }
     },
-    "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3

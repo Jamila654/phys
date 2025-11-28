@@ -3,102 +3,137 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/phys/',
-    component: ComponentCreator('/phys/', '671'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', 'fa3'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '75d'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'cd8'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', '8e3'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'f26'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '32c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', 'ce6'),
+    exact: true
+  },
+  {
+    path: '/',
+    component: ComponentCreator('/', '023'),
     routes: [
       {
-        path: '/phys/',
-        component: ComponentCreator('/phys/', 'fa2'),
+        path: '/',
+        component: ComponentCreator('/', '96c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/balance-manipulation-and-whole-body-control',
-        component: ComponentCreator('/phys/balance-manipulation-and-whole-body-control', '9b9'),
+        path: '/balance-manipulation-and-whole-body-control',
+        component: ComponentCreator('/balance-manipulation-and-whole-body-control', '55e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/capstone-autonomous-humanoid',
-        component: ComponentCreator('/phys/capstone-autonomous-humanoid', 'f65'),
+        path: '/capstone-autonomous-humanoid',
+        component: ComponentCreator('/capstone-autonomous-humanoid', 'a1b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/conversational-robotics-voice-to-action',
-        component: ComponentCreator('/phys/conversational-robotics-voice-to-action', 'bfa'),
+        path: '/conversational-robotics-voice-to-action',
+        component: ComponentCreator('/conversational-robotics-voice-to-action', '86a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/embodied-intelligence-and-humanoids',
-        component: ComponentCreator('/phys/embodied-intelligence-and-humanoids', 'aab'),
+        path: '/embodied-intelligence-and-humanoids',
+        component: ComponentCreator('/embodied-intelligence-and-humanoids', '5e0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/introduction-to-physical-ai',
-        component: ComponentCreator('/phys/introduction-to-physical-ai', 'c3c'),
+        path: '/introduction-to-physical-ai',
+        component: ComponentCreator('/introduction-to-physical-ai', '2e7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/isaac-ros-and-perception',
-        component: ComponentCreator('/phys/isaac-ros-and-perception', '342'),
+        path: '/isaac-ros-and-perception',
+        component: ComponentCreator('/isaac-ros-and-perception', '062'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/navigation-and-bipedal-locomotion',
-        component: ComponentCreator('/phys/navigation-and-bipedal-locomotion', '76b'),
+        path: '/navigation-and-bipedal-locomotion',
+        component: ComponentCreator('/navigation-and-bipedal-locomotion', '09f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/nvidia-isaac-sim-and-digital-twins',
-        component: ComponentCreator('/phys/nvidia-isaac-sim-and-digital-twins', 'c6d'),
+        path: '/nvidia-isaac-sim-and-digital-twins',
+        component: ComponentCreator('/nvidia-isaac-sim-and-digital-twins', '2dd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/recommended-humanoid-robots',
-        component: ComponentCreator('/phys/recommended-humanoid-robots', '626'),
+        path: '/recommended-humanoid-robots',
+        component: ComponentCreator('/recommended-humanoid-robots', '99f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/ros2-the-robotic-nervous-system',
-        component: ComponentCreator('/phys/ros2-the-robotic-nervous-system', 'f99'),
+        path: '/ros2-the-robotic-nervous-system',
+        component: ComponentCreator('/ros2-the-robotic-nervous-system', '0d7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/sensors-in-physical-ai',
-        component: ComponentCreator('/phys/sensors-in-physical-ai', 'cd6'),
+        path: '/sensors-in-physical-ai',
+        component: ComponentCreator('/sensors-in-physical-ai', '3eb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/simulation-with-gazebo',
-        component: ComponentCreator('/phys/simulation-with-gazebo', '558'),
+        path: '/simulation-with-gazebo',
+        component: ComponentCreator('/simulation-with-gazebo', '3ef'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/student-hardware-guide',
-        component: ComponentCreator('/phys/student-hardware-guide', 'f47'),
+        path: '/student-hardware-guide',
+        component: ComponentCreator('/student-hardware-guide', '22b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/urdf-and-robot-description',
-        component: ComponentCreator('/phys/urdf-and-robot-description', 'a52'),
+        path: '/urdf-and-robot-description',
+        component: ComponentCreator('/urdf-and-robot-description', '5a8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/phys/vision-language-action-models',
-        component: ComponentCreator('/phys/vision-language-action-models', '97b'),
+        path: '/vision-language-action-models',
+        component: ComponentCreator('/vision-language-action-models', '1d3'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

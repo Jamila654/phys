@@ -6,7 +6,7 @@
   "source": "@site/docs/06-simulation-with-gazebo.md",
   "sourceDirName": ".",
   "slug": "/simulation-with-gazebo",
-  "permalink": "/phys/simulation-with-gazebo",
+  "permalink": "/simulation-with-gazebo",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06-simulation-with-gazebo.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Sensors in Physical AI",
-    "permalink": "/phys/sensors-in-physical-ai"
+    "permalink": "/sensors-in-physical-ai"
   },
   "next": {
     "title": "NVIDIA Isaac Sim and Digital Twins",
-    "permalink": "/phys/nvidia-isaac-sim-and-digital-twins"
+    "permalink": "/nvidia-isaac-sim-and-digital-twins"
   }
 }

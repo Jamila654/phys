@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/physai-humanoid/",
-          "tagsPath": "/physai-humanoid/tags",
+          "path": "/",
+          "tagsPath": "/tags",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
@@ -27,7 +27,7 @@
               "source": "@site/docs/12-balance-manipulation-and-whole-body-control.md",
               "sourceDirName": ".",
               "slug": "/balance-manipulation-and-whole-body-control",
-              "permalink": "/physai-humanoid/balance-manipulation-and-whole-body-control",
+              "permalink": "/balance-manipulation-and-whole-body-control",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/12-balance-manipulation-and-whole-body-control.md",
               "tags": [],
@@ -40,11 +40,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Conversational Robotics - Voice to Action",
-                "permalink": "/physai-humanoid/conversational-robotics-voice-to-action"
+                "permalink": "/conversational-robotics-voice-to-action"
               },
               "next": {
                 "title": "Capstone - Autonomous Humanoid",
-                "permalink": "/physai-humanoid/capstone-autonomous-humanoid"
+                "permalink": "/capstone-autonomous-humanoid"
               }
             },
             {
@@ -55,7 +55,7 @@
               "source": "@site/docs/13-capstone-autonomous-humanoid.md",
               "sourceDirName": ".",
               "slug": "/capstone-autonomous-humanoid",
-              "permalink": "/physai-humanoid/capstone-autonomous-humanoid",
+              "permalink": "/capstone-autonomous-humanoid",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/13-capstone-autonomous-humanoid.md",
               "tags": [],
@@ -68,11 +68,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Balance, Manipulation, and Whole-Body Control",
-                "permalink": "/physai-humanoid/balance-manipulation-and-whole-body-control"
+                "permalink": "/balance-manipulation-and-whole-body-control"
               },
               "next": {
                 "title": "Recommended Humanoid Robots",
-                "permalink": "/physai-humanoid/recommended-humanoid-robots"
+                "permalink": "/recommended-humanoid-robots"
               }
             },
             {
@@ -83,7 +83,7 @@
               "source": "@site/docs/11-conversational-robotics-voice-to-action.md",
               "sourceDirName": ".",
               "slug": "/conversational-robotics-voice-to-action",
-              "permalink": "/physai-humanoid/conversational-robotics-voice-to-action",
+              "permalink": "/conversational-robotics-voice-to-action",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11-conversational-robotics-voice-to-action.md",
               "tags": [],
@@ -96,11 +96,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Vision-Language-Action Models",
-                "permalink": "/physai-humanoid/vision-language-action-models"
+                "permalink": "/vision-language-action-models"
               },
               "next": {
                 "title": "Balance, Manipulation, and Whole-Body Control",
-                "permalink": "/physai-humanoid/balance-manipulation-and-whole-body-control"
+                "permalink": "/balance-manipulation-and-whole-body-control"
               }
             },
             {
@@ -111,7 +111,7 @@
               "source": "@site/docs/02-embodied-intelligence.md",
               "sourceDirName": ".",
               "slug": "/embodied-intelligence-and-humanoids",
-              "permalink": "/physai-humanoid/embodied-intelligence-and-humanoids",
+              "permalink": "/embodied-intelligence-and-humanoids",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-embodied-intelligence.md",
               "tags": [],
@@ -124,11 +124,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction to Physical AI",
-                "permalink": "/physai-humanoid/introduction-to-physical-ai"
+                "permalink": "/introduction-to-physical-ai"
               },
               "next": {
                 "title": "ROS 2 - The Robotic Nervous System",
-                "permalink": "/physai-humanoid/ros2-the-robotic-nervous-system"
+                "permalink": "/ros2-the-robotic-nervous-system"
               }
             },
             {
@@ -139,7 +139,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",
-              "permalink": "/physai-humanoid/",
+              "permalink": "/",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
@@ -152,7 +152,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Student Hardware Guide",
-                "permalink": "/physai-humanoid/student-hardware-guide"
+                "permalink": "/student-hardware-guide"
               }
             },
             {
@@ -163,7 +163,7 @@
               "source": "@site/docs/01-introduction.md",
               "sourceDirName": ".",
               "slug": "/introduction-to-physical-ai",
-              "permalink": "/physai-humanoid/introduction-to-physical-ai",
+              "permalink": "/introduction-to-physical-ai",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-introduction.md",
               "tags": [],
@@ -176,7 +176,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Embodied Intelligence and Humanoids",
-                "permalink": "/physai-humanoid/embodied-intelligence-and-humanoids"
+                "permalink": "/embodied-intelligence-and-humanoids"
               }
             },
             {
@@ -187,7 +187,7 @@
               "source": "@site/docs/08-isaac-ros-and-perception.md",
               "sourceDirName": ".",
               "slug": "/isaac-ros-and-perception",
-              "permalink": "/physai-humanoid/isaac-ros-and-perception",
+              "permalink": "/isaac-ros-and-perception",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/08-isaac-ros-and-perception.md",
               "tags": [],
@@ -200,11 +200,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "NVIDIA Isaac Sim and Digital Twins",
-                "permalink": "/physai-humanoid/nvidia-isaac-sim-and-digital-twins"
+                "permalink": "/nvidia-isaac-sim-and-digital-twins"
               },
               "next": {
                 "title": "Navigation and Bipedal Locomotion",
-                "permalink": "/physai-humanoid/navigation-and-bipedal-locomotion"
+                "permalink": "/navigation-and-bipedal-locomotion"
               }
             },
             {
@@ -215,7 +215,7 @@
               "source": "@site/docs/09-navigation-and-bipedal-locomotion.md",
               "sourceDirName": ".",
               "slug": "/navigation-and-bipedal-locomotion",
-              "permalink": "/physai-humanoid/navigation-and-bipedal-locomotion",
+              "permalink": "/navigation-and-bipedal-locomotion",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/09-navigation-and-bipedal-locomotion.md",
               "tags": [],
@@ -228,11 +228,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Isaac ROS and Perception",
-                "permalink": "/physai-humanoid/isaac-ros-and-perception"
+                "permalink": "/isaac-ros-and-perception"
               },
               "next": {
                 "title": "Vision-Language-Action Models",
-                "permalink": "/physai-humanoid/vision-language-action-models"
+                "permalink": "/vision-language-action-models"
               }
             },
             {
@@ -243,7 +243,7 @@
               "source": "@site/docs/07-nvidia-isaac-sim-and-digital-twins.md",
               "sourceDirName": ".",
               "slug": "/nvidia-isaac-sim-and-digital-twins",
-              "permalink": "/physai-humanoid/nvidia-isaac-sim-and-digital-twins",
+              "permalink": "/nvidia-isaac-sim-and-digital-twins",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/07-nvidia-isaac-sim-and-digital-twins.md",
               "tags": [],
@@ -256,11 +256,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Simulation with Gazebo",
-                "permalink": "/physai-humanoid/simulation-with-gazebo"
+                "permalink": "/simulation-with-gazebo"
               },
               "next": {
                 "title": "Isaac ROS and Perception",
-                "permalink": "/physai-humanoid/isaac-ros-and-perception"
+                "permalink": "/isaac-ros-and-perception"
               }
             },
             {
@@ -271,7 +271,7 @@
               "source": "@site/docs/best-robots.md",
               "sourceDirName": ".",
               "slug": "/recommended-humanoid-robots",
-              "permalink": "/physai-humanoid/recommended-humanoid-robots",
+              "permalink": "/recommended-humanoid-robots",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/best-robots.md",
               "tags": [],
@@ -283,11 +283,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Capstone - Autonomous Humanoid",
-                "permalink": "/physai-humanoid/capstone-autonomous-humanoid"
+                "permalink": "/capstone-autonomous-humanoid"
               },
               "next": {
                 "title": "Student Hardware Guide",
-                "permalink": "/physai-humanoid/student-hardware-guide"
+                "permalink": "/student-hardware-guide"
               }
             },
             {
@@ -298,7 +298,7 @@
               "source": "@site/docs/03-ros2-the-robotic-nervous-system.md",
               "sourceDirName": ".",
               "slug": "/ros2-the-robotic-nervous-system",
-              "permalink": "/physai-humanoid/ros2-the-robotic-nervous-system",
+              "permalink": "/ros2-the-robotic-nervous-system",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-ros2-the-robotic-nervous-system.md",
               "tags": [],
@@ -311,11 +311,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Embodied Intelligence and Humanoids",
-                "permalink": "/physai-humanoid/embodied-intelligence-and-humanoids"
+                "permalink": "/embodied-intelligence-and-humanoids"
               },
               "next": {
                 "title": "URDF and Robot Description",
-                "permalink": "/physai-humanoid/urdf-and-robot-description"
+                "permalink": "/urdf-and-robot-description"
               }
             },
             {
@@ -326,7 +326,7 @@
               "source": "@site/docs/05-sensors-in-physical-ai.md",
               "sourceDirName": ".",
               "slug": "/sensors-in-physical-ai",
-              "permalink": "/physai-humanoid/sensors-in-physical-ai",
+              "permalink": "/sensors-in-physical-ai",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/05-sensors-in-physical-ai.md",
               "tags": [],
@@ -339,11 +339,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "URDF and Robot Description",
-                "permalink": "/physai-humanoid/urdf-and-robot-description"
+                "permalink": "/urdf-and-robot-description"
               },
               "next": {
                 "title": "Simulation with Gazebo",
-                "permalink": "/physai-humanoid/simulation-with-gazebo"
+                "permalink": "/simulation-with-gazebo"
               }
             },
             {
@@ -354,7 +354,7 @@
               "source": "@site/docs/06-simulation-with-gazebo.md",
               "sourceDirName": ".",
               "slug": "/simulation-with-gazebo",
-              "permalink": "/physai-humanoid/simulation-with-gazebo",
+              "permalink": "/simulation-with-gazebo",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06-simulation-with-gazebo.md",
               "tags": [],
@@ -367,11 +367,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Sensors in Physical AI",
-                "permalink": "/physai-humanoid/sensors-in-physical-ai"
+                "permalink": "/sensors-in-physical-ai"
               },
               "next": {
                 "title": "NVIDIA Isaac Sim and Digital Twins",
-                "permalink": "/physai-humanoid/nvidia-isaac-sim-and-digital-twins"
+                "permalink": "/nvidia-isaac-sim-and-digital-twins"
               }
             },
             {
@@ -382,7 +382,7 @@
               "source": "@site/docs/hardware-guide.md",
               "sourceDirName": ".",
               "slug": "/student-hardware-guide",
-              "permalink": "/physai-humanoid/student-hardware-guide",
+              "permalink": "/student-hardware-guide",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hardware-guide.md",
               "tags": [],
@@ -394,11 +394,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Recommended Humanoid Robots",
-                "permalink": "/physai-humanoid/recommended-humanoid-robots"
+                "permalink": "/recommended-humanoid-robots"
               },
               "next": {
                 "title": "Welcome to Physical AI & Humanoid Robotics",
-                "permalink": "/physai-humanoid/"
+                "permalink": "/"
               }
             },
             {
@@ -409,7 +409,7 @@
               "source": "@site/docs/04-urdf-and-robot-description.md",
               "sourceDirName": ".",
               "slug": "/urdf-and-robot-description",
-              "permalink": "/physai-humanoid/urdf-and-robot-description",
+              "permalink": "/urdf-and-robot-description",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04-urdf-and-robot-description.md",
               "tags": [],
@@ -422,11 +422,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "ROS 2 - The Robotic Nervous System",
-                "permalink": "/physai-humanoid/ros2-the-robotic-nervous-system"
+                "permalink": "/ros2-the-robotic-nervous-system"
               },
               "next": {
                 "title": "Sensors in Physical AI",
-                "permalink": "/physai-humanoid/sensors-in-physical-ai"
+                "permalink": "/sensors-in-physical-ai"
               }
             },
             {
@@ -437,7 +437,7 @@
               "source": "@site/docs/10-vision-language-action-models.md",
               "sourceDirName": ".",
               "slug": "/vision-language-action-models",
-              "permalink": "/physai-humanoid/vision-language-action-models",
+              "permalink": "/vision-language-action-models",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10-vision-language-action-models.md",
               "tags": [],
@@ -450,11 +450,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Navigation and Bipedal Locomotion",
-                "permalink": "/physai-humanoid/navigation-and-bipedal-locomotion"
+                "permalink": "/navigation-and-bipedal-locomotion"
               },
               "next": {
                 "title": "Conversational Robotics - Voice to Action",
-                "permalink": "/physai-humanoid/conversational-robotics-voice-to-action"
+                "permalink": "/conversational-robotics-voice-to-action"
               }
             }
           ],
@@ -537,7 +537,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/physai-humanoid/blog/tags",
+      "blogTagsListPath": "/blog/tags",
       "blogTagsPaginated": []
     }
   },

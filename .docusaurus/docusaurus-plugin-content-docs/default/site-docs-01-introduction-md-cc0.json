@@ -6,7 +6,7 @@
   "source": "@site/docs/01-introduction.md",
   "sourceDirName": ".",
   "slug": "/introduction-to-physical-ai",
-  "permalink": "/phys/introduction-to-physical-ai",
+  "permalink": "/introduction-to-physical-ai",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-introduction.md",
   "tags": [],
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Embodied Intelligence and Humanoids",
-    "permalink": "/phys/embodied-intelligence-and-humanoids"
+    "permalink": "/embodied-intelligence-and-humanoids"
   }
 }
