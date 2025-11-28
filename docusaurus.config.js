@@ -12,16 +12,19 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://panaversity.github.io',
+  // url: 'https://panaversity.github.io',
+  url: 'https://jamila654.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/physai-humanoid/',
+  // baseUrl: '/physai-humanoid/',
+  baseUrl: '/phys/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'panaversity', // Usually your GitHub org/user name.
-  projectName: 'physai-humanoid', // Usually your repo name.
-
+  // organizationName: 'panaversity',
+  // projectName: 'physai-humanoid',
+  organizationName: 'Jamila654',
+  projectName: 'phys',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
