@@ -1,0 +1,73 @@
+{
+  "/physai-humanoid/-60b": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "f8bf528a"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/physai-humanoid/-399": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/physai-humanoid/balance-manipulation-and-whole-body-control-3cf": {
+    "__comp": "17896441",
+    "content": "fee21ee4"
+  },
+  "/physai-humanoid/capstone-autonomous-humanoid-7d5": {
+    "__comp": "17896441",
+    "content": "42a93112"
+  },
+  "/physai-humanoid/conversational-robotics-voice-to-action-7a6": {
+    "__comp": "17896441",
+    "content": "9273aff0"
+  },
+  "/physai-humanoid/embodied-intelligence-and-humanoids-d5a": {
+    "__comp": "17896441",
+    "content": "d9188b23"
+  },
+  "/physai-humanoid/introduction-to-physical-ai-e0c": {
+    "__comp": "17896441",
+    "content": "cc0ad427"
+  },
+  "/physai-humanoid/isaac-ros-and-perception-10c": {
+    "__comp": "17896441",
+    "content": "837de670"
+  },
+  "/physai-humanoid/navigation-and-bipedal-locomotion-ccc": {
+    "__comp": "17896441",
+    "content": "c621f5d4"
+  },
+  "/physai-humanoid/nvidia-isaac-sim-and-digital-twins-780": {
+    "__comp": "17896441",
+    "content": "abcdf408"
+  },
+  "/physai-humanoid/recommended-humanoid-robots-2a5": {
+    "__comp": "17896441",
+    "content": "b4a005f6"
+  },
+  "/physai-humanoid/ros2-the-robotic-nervous-system-b16": {
+    "__comp": "17896441",
+    "content": "9f7a62ce"
+  },
+  "/physai-humanoid/sensors-in-physical-ai-864": {
+    "__comp": "17896441",
+    "content": "ce901b5b"
+  },
+  "/physai-humanoid/simulation-with-gazebo-8e9": {
+    "__comp": "17896441",
+    "content": "e8d4038f"
+  },
+  "/physai-humanoid/student-hardware-guide-c53": {
+    "__comp": "17896441",
+    "content": "3a1d1bd2"
+  },
+  "/physai-humanoid/urdf-and-robot-description-423": {
+    "__comp": "17896441",
+    "content": "3f38efec"
+  },
+  "/physai-humanoid/vision-language-action-models-3c9": {
+    "__comp": "17896441",
+    "content": "6c6113f4"
+  }
+}

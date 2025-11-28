@@ -1,0 +1,111 @@
+/** 
+ * Ultra-dark "Meditations" theme — inspired by the black book in your photo
+ * Pure elegance: near-black backgrounds, silver-gray text, minimal accents
+ */
+
+:root {
+  --ifm-color-primary: #d4af37;       /* Very subtle antique gold — used extremely sparingly */
+  --ifm-color-primary-dark: #b89b2e;
+  --ifm-color-primary-darker: #9e8728;
+  --ifm-color-primary-darkest: #857321;
+  --ifm-color-primary-light: #e0c567;
+  --ifm-color-primary-lighter: #e8d590;
+  --ifm-color-primary-lightest: #f0e4c0;
+
+  --ifm-background-color: #0c0c0c;           /* Almost pure black */
+  --ifm-color-content: #b0b0b0;              /* Soft silver-gray body text */
+  --ifm-color-content-secondary: #949494;    /* Slightly darker gray */
+  --ifm-heading-color: #e0e0e0;              /* Near-white for headings */
+  --ifm-navbar-background-color: #0f0f0f;
+  --ifm-footer-background-color: #0a0a0a;
+  --ifm-menu-color-background-active: rgba(212, 175, 55, 0.12); /* Barely-there gold glow */
+  --docusaurus-highlighted-code-line-bg: rgba(212, 175, 55, 0.08);
+}
+
+[data-theme='dark'],
+[data-theme='light'] {  /* Force the same ultra-dark look in both modes */
+  --ifm-background-color: #0c0c0c;
+  --ifm-color-primary: #d4af37;
+  --ifm-heading-color: #e0e0e0;
+  --ifm-color-content: #b0b0b0;
+  --ifm-color-content-secondary: #949494;
+  --ifm-navbar-background-color: #0f0f0f;
+  --ifm-footer-background-color: #0a0a0a;
+  --ifm-menu-color-background-active: rgba(212, 175, 55, 0.12);
+  --docusaurus-highlighted-code-line-bg: rgba(212, 175, 55, 0.08);
+}
+
+/* Body & typography */
+body {
+  background: #0c0c0c;
+  color: var(--ifm-color-content);
+  font-family: 'Georgia', 'Merriweather', 'Source Serif Pro', serif;
+  line-height: 1.7;
+}
+
+/* Headings — elegant and slightly brighter */
+h1, h2, h3, h4, h5, h6 {
+  color: #e8e8e8;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+/* Links — subtle gold, only visible on hover or active */
+a {
+  color: #b0b0b0;
+  text-decoration: none;
+  transition: color 0.25s ease;
+}
+
+a:hover {
+  color: #d4af37;
+}
+
+.menu__link--active,
+.navbar__item.navbar__link--active {
+  color: #d4af37 !important;
+  font-weight: 500;
+}
+
+/* Navbar & sidebar — pure black with subtle borders */
+.navbar,
+.theme-doc-sidebar-menu {
+  background: #0f0f0f !important;
+  border-bottom: 1px solid #1a1a1a;
+}
+
+.menu__link {
+  color: #949494;
+  transition: all 0.2s ease;
+}
+
+.menu__link:hover {
+  color: #e0e0e0;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.menu__link--active {
+  background: rgba(212, 175, 55, 0.12);
+  color: #d4af37 !important;
+  border-radius: 4px;
+}
+
+/* Code blocks — dark with faint gold highlights */
+pre {
+  background: #111111 !important;
+  border: 1px solid #222;
+  border-radius: 6px;
+}
+
+/* Remove any loud buttons/badges */
+.button.button--secondary {
+  color: #b0b0b0;
+  background: transparent;
+  border: 1px solid #333;
+}
+
+.button.button--secondary:hover {
+  background: rgba(212, 175, 55, 0.15);
+  color: #d4af37;
+  border-color: #d4af37;
+}

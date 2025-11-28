@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physai-humanoid/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physai-humanoid/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "balance-manipulation-and-whole-body-control",
+              "path": "/physai-humanoid/balance-manipulation-and-whole-body-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "capstone-autonomous-humanoid",
+              "path": "/physai-humanoid/capstone-autonomous-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conversational-robotics-voice-to-action",
+              "path": "/physai-humanoid/conversational-robotics-voice-to-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "embodied-intelligence-and-humanoids",
+              "path": "/physai-humanoid/embodied-intelligence-and-humanoids",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/physai-humanoid/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction-to-physical-ai",
+              "path": "/physai-humanoid/introduction-to-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-ros-and-perception",
+              "path": "/physai-humanoid/isaac-ros-and-perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "navigation-and-bipedal-locomotion",
+              "path": "/physai-humanoid/navigation-and-bipedal-locomotion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nvidia-isaac-sim-and-digital-twins",
+              "path": "/physai-humanoid/nvidia-isaac-sim-and-digital-twins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recommended-humanoid-robots",
+              "path": "/physai-humanoid/recommended-humanoid-robots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-the-robotic-nervous-system",
+              "path": "/physai-humanoid/ros2-the-robotic-nervous-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sensors-in-physical-ai",
+              "path": "/physai-humanoid/sensors-in-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "simulation-with-gazebo",
+              "path": "/physai-humanoid/simulation-with-gazebo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "student-hardware-guide",
+              "path": "/physai-humanoid/student-hardware-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "urdf-and-robot-description",
+              "path": "/physai-humanoid/urdf-and-robot-description",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vision-language-action-models",
+              "path": "/physai-humanoid/vision-language-action-models",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/physai-humanoid/introduction-to-physical-ai",
+                "label": "introduction-to-physical-ai"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
