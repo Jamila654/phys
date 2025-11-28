@@ -12,97 +12,97 @@
       {
         "type": "link",
         "label": "Introduction to Physical AI",
-        "href": "/physai-humanoid/introduction-to-physical-ai",
+        "href": "/phys/introduction-to-physical-ai",
         "docId": "introduction-to-physical-ai"
       },
       {
         "type": "link",
         "label": "Embodied Intelligence and Humanoids",
-        "href": "/physai-humanoid/embodied-intelligence-and-humanoids",
+        "href": "/phys/embodied-intelligence-and-humanoids",
         "docId": "embodied-intelligence-and-humanoids"
       },
       {
         "type": "link",
         "label": "ROS 2 - The Robotic Nervous System",
-        "href": "/physai-humanoid/ros2-the-robotic-nervous-system",
+        "href": "/phys/ros2-the-robotic-nervous-system",
         "docId": "ros2-the-robotic-nervous-system"
       },
       {
         "type": "link",
         "label": "URDF and Robot Description",
-        "href": "/physai-humanoid/urdf-and-robot-description",
+        "href": "/phys/urdf-and-robot-description",
         "docId": "urdf-and-robot-description"
       },
       {
         "type": "link",
         "label": "Sensors in Physical AI",
-        "href": "/physai-humanoid/sensors-in-physical-ai",
+        "href": "/phys/sensors-in-physical-ai",
         "docId": "sensors-in-physical-ai"
       },
       {
         "type": "link",
         "label": "Simulation with Gazebo",
-        "href": "/physai-humanoid/simulation-with-gazebo",
+        "href": "/phys/simulation-with-gazebo",
         "docId": "simulation-with-gazebo"
       },
       {
         "type": "link",
         "label": "NVIDIA Isaac Sim and Digital Twins",
-        "href": "/physai-humanoid/nvidia-isaac-sim-and-digital-twins",
+        "href": "/phys/nvidia-isaac-sim-and-digital-twins",
         "docId": "nvidia-isaac-sim-and-digital-twins"
       },
       {
         "type": "link",
         "label": "Isaac ROS and Perception",
-        "href": "/physai-humanoid/isaac-ros-and-perception",
+        "href": "/phys/isaac-ros-and-perception",
         "docId": "isaac-ros-and-perception"
       },
       {
         "type": "link",
         "label": "Navigation and Bipedal Locomotion",
-        "href": "/physai-humanoid/navigation-and-bipedal-locomotion",
+        "href": "/phys/navigation-and-bipedal-locomotion",
         "docId": "navigation-and-bipedal-locomotion"
       },
       {
         "type": "link",
         "label": "Vision-Language-Action Models",
-        "href": "/physai-humanoid/vision-language-action-models",
+        "href": "/phys/vision-language-action-models",
         "docId": "vision-language-action-models"
       },
       {
         "type": "link",
         "label": "Conversational Robotics - Voice to Action",
-        "href": "/physai-humanoid/conversational-robotics-voice-to-action",
+        "href": "/phys/conversational-robotics-voice-to-action",
         "docId": "conversational-robotics-voice-to-action"
       },
       {
         "type": "link",
         "label": "Balance, Manipulation, and Whole-Body Control",
-        "href": "/physai-humanoid/balance-manipulation-and-whole-body-control",
+        "href": "/phys/balance-manipulation-and-whole-body-control",
         "docId": "balance-manipulation-and-whole-body-control"
       },
       {
         "type": "link",
         "label": "Capstone - Autonomous Humanoid",
-        "href": "/physai-humanoid/capstone-autonomous-humanoid",
+        "href": "/phys/capstone-autonomous-humanoid",
         "docId": "capstone-autonomous-humanoid"
       },
       {
         "type": "link",
         "label": "Recommended Humanoid Robots",
-        "href": "/physai-humanoid/recommended-humanoid-robots",
+        "href": "/phys/recommended-humanoid-robots",
         "docId": "recommended-humanoid-robots"
       },
       {
         "type": "link",
         "label": "Student Hardware Guide",
-        "href": "/physai-humanoid/student-hardware-guide",
+        "href": "/phys/student-hardware-guide",
         "docId": "student-hardware-guide"
       },
       {
         "type": "link",
         "label": "Welcome to Physical AI & Humanoid Robotics",
-        "href": "/physai-humanoid/",
+        "href": "/phys/",
         "docId": "intro"
       }
     ]

@@ -90,63 +90,63 @@
     "170": {
       "js": [
         {
-          "file": "assets/js/42a93112.8e0ef203.js",
-          "hash": "ff4c331cdc2d5fcc",
-          "publicPath": "/physai-humanoid/assets/js/42a93112.8e0ef203.js"
+          "file": "assets/js/42a93112.ffe22c98.js",
+          "hash": "8cacb42df2d2a53d",
+          "publicPath": "/phys/assets/js/42a93112.ffe22c98.js"
         }
       ]
     },
     "186": {
       "js": [
         {
-          "file": "assets/js/9f7a62ce.5da49c30.js",
-          "hash": "424fa2721e9b35b6",
-          "publicPath": "/physai-humanoid/assets/js/9f7a62ce.5da49c30.js"
+          "file": "assets/js/9f7a62ce.1923f2f4.js",
+          "hash": "93874007369891f2",
+          "publicPath": "/phys/assets/js/9f7a62ce.1923f2f4.js"
         }
       ]
     },
     "209": {
       "js": [
         {
-          "file": "assets/js/cc0ad427.0adb0ccc.js",
-          "hash": "56b6a0641009458d",
-          "publicPath": "/physai-humanoid/assets/js/cc0ad427.0adb0ccc.js"
+          "file": "assets/js/cc0ad427.3ee660b2.js",
+          "hash": "7f0299de9a516ae7",
+          "publicPath": "/phys/assets/js/cc0ad427.3ee660b2.js"
         }
       ]
     },
     "230": {
       "js": [
         {
-          "file": "assets/js/d9188b23.2fc20b88.js",
-          "hash": "e48479af2c19e61d",
-          "publicPath": "/physai-humanoid/assets/js/d9188b23.2fc20b88.js"
+          "file": "assets/js/d9188b23.2c724578.js",
+          "hash": "f3b512e4ff4becca",
+          "publicPath": "/phys/assets/js/d9188b23.2c724578.js"
         }
       ]
     },
     "237": {
       "js": [
         {
-          "file": "assets/js/837de670.4fc7a558.js",
-          "hash": "04d637f739880d55",
-          "publicPath": "/physai-humanoid/assets/js/837de670.4fc7a558.js"
+          "file": "assets/js/837de670.cdcaaa5f.js",
+          "hash": "47e29daf4e823900",
+          "publicPath": "/phys/assets/js/837de670.cdcaaa5f.js"
         }
       ]
     },
     "244": {
       "js": [
         {
-          "file": "assets/js/ce901b5b.415aa5c7.js",
-          "hash": "9d60f5dec40abdd6",
-          "publicPath": "/physai-humanoid/assets/js/ce901b5b.415aa5c7.js"
+          "file": "assets/js/ce901b5b.2b79b798.js",
+          "hash": "724fd0b599db32b9",
+          "publicPath": "/phys/assets/js/ce901b5b.2b79b798.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.52fefbdb.js",
-          "hash": "fba979e32a04cd89",
-          "publicPath": "/physai-humanoid/assets/js/runtime~main.52fefbdb.js"
+          "file": "assets/js/runtime~main.6729f50d.js",
+          "hash": "fea8747f814bb155",
+          "publicPath": "/phys/assets/js/runtime~main.6729f50d.js"
         }
       ]
     },
@@ -155,16 +155,16 @@
         {
           "file": "assets/js/17896441.525fb12b.js",
           "hash": "e250ffc578a83e1e",
-          "publicPath": "/physai-humanoid/assets/js/17896441.525fb12b.js"
+          "publicPath": "/phys/assets/js/17896441.525fb12b.js"
         }
       ]
     },
     "421": {
       "js": [
         {
-          "file": "assets/js/abcdf408.27de9097.js",
-          "hash": "1120128f1f7ebfaf",
-          "publicPath": "/physai-humanoid/assets/js/abcdf408.27de9097.js"
+          "file": "assets/js/abcdf408.cfb15769.js",
+          "hash": "79294e5cdb4cffae",
+          "publicPath": "/phys/assets/js/abcdf408.cfb15769.js"
         }
       ]
     },
@@ -173,52 +173,52 @@
         {
           "file": "assets/js/f8bf528a.c86b2539.js",
           "hash": "185012a2f9e6040d",
-          "publicPath": "/physai-humanoid/assets/js/f8bf528a.c86b2539.js"
+          "publicPath": "/phys/assets/js/f8bf528a.c86b2539.js"
         }
       ]
     },
     "499": {
       "js": [
         {
-          "file": "assets/js/3a1d1bd2.4faefc8b.js",
-          "hash": "40a455457fc01740",
-          "publicPath": "/physai-humanoid/assets/js/3a1d1bd2.4faefc8b.js"
+          "file": "assets/js/3a1d1bd2.b37f10c9.js",
+          "hash": "84397000e8ca78bf",
+          "publicPath": "/phys/assets/js/3a1d1bd2.b37f10c9.js"
         }
       ]
     },
     "557": {
       "js": [
         {
-          "file": "assets/js/e8d4038f.b7df79cb.js",
-          "hash": "1bacaa167576636e",
-          "publicPath": "/physai-humanoid/assets/js/e8d4038f.b7df79cb.js"
+          "file": "assets/js/e8d4038f.6bf7a426.js",
+          "hash": "363792498f9eb38d",
+          "publicPath": "/phys/assets/js/e8d4038f.6bf7a426.js"
         }
       ]
     },
     "575": {
       "js": [
         {
-          "file": "assets/js/9273aff0.f690f7a1.js",
-          "hash": "fa71b1f720af48ee",
-          "publicPath": "/physai-humanoid/assets/js/9273aff0.f690f7a1.js"
+          "file": "assets/js/9273aff0.46a8cbad.js",
+          "hash": "31fc7dddacc1329f",
+          "publicPath": "/phys/assets/js/9273aff0.46a8cbad.js"
         }
       ]
     },
     "581": {
       "js": [
         {
-          "file": "assets/js/935f2afb.056ef18c.js",
-          "hash": "dd373fb31efe57b9",
-          "publicPath": "/physai-humanoid/assets/js/935f2afb.056ef18c.js"
+          "file": "assets/js/935f2afb.1004e998.js",
+          "hash": "c6cb73c925748929",
+          "publicPath": "/phys/assets/js/935f2afb.1004e998.js"
         }
       ]
     },
     "644": {
       "js": [
         {
-          "file": "assets/js/3f38efec.28bbaeb7.js",
-          "hash": "e3e2b2d96acc9cb1",
-          "publicPath": "/physai-humanoid/assets/js/3f38efec.28bbaeb7.js"
+          "file": "assets/js/3f38efec.81b1fe69.js",
+          "hash": "39ae9e39f8216f4b",
+          "publicPath": "/phys/assets/js/3f38efec.81b1fe69.js"
         }
       ]
     },
@@ -227,48 +227,48 @@
         {
           "file": "assets/js/774.b7492f59.js",
           "hash": "f510e5067140070e",
-          "publicPath": "/physai-humanoid/assets/js/774.b7492f59.js"
+          "publicPath": "/phys/assets/js/774.b7492f59.js"
         },
         {
           "file": "assets/js/1be78505.47ca6fd8.js",
           "hash": "86dda2d0399313ff",
-          "publicPath": "/physai-humanoid/assets/js/1be78505.47ca6fd8.js"
+          "publicPath": "/phys/assets/js/1be78505.47ca6fd8.js"
         }
       ]
     },
     "792": {
       "js": [
         {
-          "file": "assets/js/main.20480f6d.js",
-          "hash": "3ba6021ab84a761e",
-          "publicPath": "/physai-humanoid/assets/js/main.20480f6d.js"
+          "file": "assets/js/main.f22b9c71.js",
+          "hash": "dd0c07b15efecc3c",
+          "publicPath": "/phys/assets/js/main.f22b9c71.js"
         }
       ]
     },
     "800": {
       "js": [
         {
-          "file": "assets/js/c621f5d4.e502ddb3.js",
-          "hash": "5d9f31c8def70702",
-          "publicPath": "/physai-humanoid/assets/js/c621f5d4.e502ddb3.js"
+          "file": "assets/js/c621f5d4.0119ef5b.js",
+          "hash": "0053919ddef2e1cd",
+          "publicPath": "/phys/assets/js/c621f5d4.0119ef5b.js"
         }
       ]
     },
     "840": {
       "js": [
         {
-          "file": "assets/js/fee21ee4.d9266157.js",
-          "hash": "33f34799b46d99fe",
-          "publicPath": "/physai-humanoid/assets/js/fee21ee4.d9266157.js"
+          "file": "assets/js/fee21ee4.4c19f1d1.js",
+          "hash": "bf3f55c6275a1bd6",
+          "publicPath": "/phys/assets/js/fee21ee4.4c19f1d1.js"
         }
       ]
     },
     "867": {
       "js": [
         {
-          "file": "assets/js/b4a005f6.6ad20f26.js",
-          "hash": "2935ed61312dca9a",
-          "publicPath": "/physai-humanoid/assets/js/b4a005f6.6ad20f26.js"
+          "file": "assets/js/b4a005f6.679f111c.js",
+          "hash": "0e8010aa3d881ef8",
+          "publicPath": "/phys/assets/js/b4a005f6.679f111c.js"
         }
       ]
     },
@@ -277,25 +277,25 @@
         {
           "file": "assets/css/styles.ab5be008.css",
           "hash": "f27c9ea6ed4425c9",
-          "publicPath": "/physai-humanoid/assets/css/styles.ab5be008.css"
+          "publicPath": "/phys/assets/css/styles.ab5be008.css"
         }
       ]
     },
     "935": {
       "js": [
         {
-          "file": "assets/js/6c6113f4.cb899af5.js",
-          "hash": "63344c4d5e4071bb",
-          "publicPath": "/physai-humanoid/assets/js/6c6113f4.cb899af5.js"
+          "file": "assets/js/6c6113f4.4e991b1c.js",
+          "hash": "d476213e33439045",
+          "publicPath": "/phys/assets/js/6c6113f4.4e991b1c.js"
         }
       ]
     },
     "976": {
       "js": [
         {
-          "file": "assets/js/0e384e19.2144e58c.js",
-          "hash": "2ff9ecb8838a5e1a",
-          "publicPath": "/physai-humanoid/assets/js/0e384e19.2144e58c.js"
+          "file": "assets/js/0e384e19.85c2b377.js",
+          "hash": "0227b70262ac2f4d",
+          "publicPath": "/phys/assets/js/0e384e19.85c2b377.js"
         }
       ]
     }

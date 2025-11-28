@@ -3,102 +3,102 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/physai-humanoid/',
-    component: ComponentCreator('/physai-humanoid/', '60b'),
+    path: '/phys/',
+    component: ComponentCreator('/phys/', '671'),
     routes: [
       {
-        path: '/physai-humanoid/',
-        component: ComponentCreator('/physai-humanoid/', '399'),
+        path: '/phys/',
+        component: ComponentCreator('/phys/', 'fa2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/balance-manipulation-and-whole-body-control',
-        component: ComponentCreator('/physai-humanoid/balance-manipulation-and-whole-body-control', '3cf'),
+        path: '/phys/balance-manipulation-and-whole-body-control',
+        component: ComponentCreator('/phys/balance-manipulation-and-whole-body-control', '9b9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/capstone-autonomous-humanoid',
-        component: ComponentCreator('/physai-humanoid/capstone-autonomous-humanoid', '7d5'),
+        path: '/phys/capstone-autonomous-humanoid',
+        component: ComponentCreator('/phys/capstone-autonomous-humanoid', 'f65'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/conversational-robotics-voice-to-action',
-        component: ComponentCreator('/physai-humanoid/conversational-robotics-voice-to-action', '7a6'),
+        path: '/phys/conversational-robotics-voice-to-action',
+        component: ComponentCreator('/phys/conversational-robotics-voice-to-action', 'bfa'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/embodied-intelligence-and-humanoids',
-        component: ComponentCreator('/physai-humanoid/embodied-intelligence-and-humanoids', 'd5a'),
+        path: '/phys/embodied-intelligence-and-humanoids',
+        component: ComponentCreator('/phys/embodied-intelligence-and-humanoids', 'aab'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/introduction-to-physical-ai',
-        component: ComponentCreator('/physai-humanoid/introduction-to-physical-ai', 'e0c'),
+        path: '/phys/introduction-to-physical-ai',
+        component: ComponentCreator('/phys/introduction-to-physical-ai', 'c3c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/isaac-ros-and-perception',
-        component: ComponentCreator('/physai-humanoid/isaac-ros-and-perception', '10c'),
+        path: '/phys/isaac-ros-and-perception',
+        component: ComponentCreator('/phys/isaac-ros-and-perception', '342'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/navigation-and-bipedal-locomotion',
-        component: ComponentCreator('/physai-humanoid/navigation-and-bipedal-locomotion', 'ccc'),
+        path: '/phys/navigation-and-bipedal-locomotion',
+        component: ComponentCreator('/phys/navigation-and-bipedal-locomotion', '76b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/nvidia-isaac-sim-and-digital-twins',
-        component: ComponentCreator('/physai-humanoid/nvidia-isaac-sim-and-digital-twins', '780'),
+        path: '/phys/nvidia-isaac-sim-and-digital-twins',
+        component: ComponentCreator('/phys/nvidia-isaac-sim-and-digital-twins', 'c6d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/recommended-humanoid-robots',
-        component: ComponentCreator('/physai-humanoid/recommended-humanoid-robots', '2a5'),
+        path: '/phys/recommended-humanoid-robots',
+        component: ComponentCreator('/phys/recommended-humanoid-robots', '626'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/ros2-the-robotic-nervous-system',
-        component: ComponentCreator('/physai-humanoid/ros2-the-robotic-nervous-system', 'b16'),
+        path: '/phys/ros2-the-robotic-nervous-system',
+        component: ComponentCreator('/phys/ros2-the-robotic-nervous-system', 'f99'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/sensors-in-physical-ai',
-        component: ComponentCreator('/physai-humanoid/sensors-in-physical-ai', '864'),
+        path: '/phys/sensors-in-physical-ai',
+        component: ComponentCreator('/phys/sensors-in-physical-ai', 'cd6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/simulation-with-gazebo',
-        component: ComponentCreator('/physai-humanoid/simulation-with-gazebo', '8e9'),
+        path: '/phys/simulation-with-gazebo',
+        component: ComponentCreator('/phys/simulation-with-gazebo', '558'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/student-hardware-guide',
-        component: ComponentCreator('/physai-humanoid/student-hardware-guide', 'c53'),
+        path: '/phys/student-hardware-guide',
+        component: ComponentCreator('/phys/student-hardware-guide', 'f47'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/urdf-and-robot-description',
-        component: ComponentCreator('/physai-humanoid/urdf-and-robot-description', '423'),
+        path: '/phys/urdf-and-robot-description',
+        component: ComponentCreator('/phys/urdf-and-robot-description', 'a52'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/physai-humanoid/vision-language-action-models',
-        component: ComponentCreator('/physai-humanoid/vision-language-action-models', '3c9'),
+        path: '/phys/vision-language-action-models',
+        component: ComponentCreator('/phys/vision-language-action-models', '97b'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
