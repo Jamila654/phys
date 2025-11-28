@@ -13,11 +13,11 @@ const config = {
 
   // Set the production url of your site here
   // url: 'https://panaversity.github.io',
-  url: 'https://jamila654.github.io',
+  url: 'https://phys-git-main-jamila654s-projects.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   // baseUrl: '/physai-humanoid/',
-  baseUrl: '/phys/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
