@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/jamilayaqoobdhedhi/Downloads/hackathon/phys/sidebars.js",
-          "contentPath": "/Users/jamilayaqoobdhedhi/Downloads/hackathon/phys/docs",
-          "contentPathLocalized": "/Users/jamilayaqoobdhedhi/Downloads/hackathon/phys/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/jamilayaqoobdhedhi/Downloads/hackathon-q4/hackathon 1/phys/sidebars.js",
+          "contentPath": "/Users/jamilayaqoobdhedhi/Downloads/hackathon-q4/hackathon 1/phys/docs",
+          "contentPathLocalized": "/Users/jamilayaqoobdhedhi/Downloads/hackathon-q4/hackathon 1/phys/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "balance-manipulation-and-whole-body-control",

@@ -28,11 +28,11 @@ export default {
         "docs": {
           "path": "./docs",
           "routeBasePath": "/",
-          "sidebarPath": "/Users/jamilayaqoobdhedhi/Downloads/hackathon/phys/sidebars.js",
+          "sidebarPath": "/Users/jamilayaqoobdhedhi/Downloads/hackathon-q4/hackathon 1/phys/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/jamilayaqoobdhedhi/Downloads/hackathon/phys/src/css/custom.css"
+          "customCss": "/Users/jamilayaqoobdhedhi/Downloads/hackathon-q4/hackathon 1/phys/src/css/custom.css"
         }
       }
     ]
